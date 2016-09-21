@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.B4{
+	width:89px;
+	height:149px;
+	margin:0px 31px 0px 0px;
+	border:2px solid #FFF;
+	background:#6fa0af;
+	float:right;
+	}
+.B5{
+	width:141px;
+	height:82px;
+	margin:19px 6px 0px 6px;
+	border:2px solid #FFF;
+	background:#6fa0af;
+	float:left;
+	}
