@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+.basic{
+	width:960px;
+	margin:auto;
+	
+}
+.top{
+	position:relative;
+	background:#ddd;
+	width:100%;
+}
+.ulleft{
+	width:400px;
+	position:absolute;
+	left:0px;
+}
+.ulright{
+	width:400px;
+	position:absolute;
+	right:0px;
+}
+.ulleft li{
+	float:left;
+	margin-right:10px
+	
+}
+.ulright li{
+	float:left;
+	margin-left:10px
+}
+
+.hlight{
+	clear:both;
+	position:relative;
+}
+
+
+.list{
+	width:120px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.list ul{
+	height:100%;
+}
+.list li{
+	height:8%;
+}
+
+
+#focusbox{
+	overflow:hidden;
+	position:relative;
+	margin-left:120px;
+}
+.pic{
+	width:100%;
+}
+
+
+
+.ad{
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+.ad ul{
+	height:100%;
+}
+.ad li{
+	height:25%;
+}
